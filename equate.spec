@@ -4,7 +4,7 @@ Epoch:	1
 Summary: 	Enlightened calculator
 Name: 		equate
 Version:	0.99.0
-Release:	1.%{git}.1
+Release:	0.%{git}.1
 License:	BSD
 Group:		Video
 URL:		http://www.enlightenment.org/
