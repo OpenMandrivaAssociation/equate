@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   equate-20140227.tar.xz: ba99c24d3187589f756981b8447661fd4d5d626c
+sources:
+  equate-20150504.tar.xz: d8da1af1c44a29214b114cc0132f5c60861f2a6d

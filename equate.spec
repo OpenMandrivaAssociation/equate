@@ -1,4 +1,4 @@
-%define git	20140227
+%define git	20150504
 
 Epoch:	1
 Summary: 	Enlightened calculator
