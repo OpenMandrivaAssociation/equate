@@ -10,6 +10,11 @@ Group:		Video
 URL:		https://www.enlightenment.org/
 Source0:	%{name}-%{git}.tar.xz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	edje
 BuildRequires:	evas
 BuildRequires:	pkgconfig(ecore)
